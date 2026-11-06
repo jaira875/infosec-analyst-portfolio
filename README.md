@@ -1,5 +1,5 @@
 # infosec-analyst-portfolio
-# Cybersecurity Portfolio – [Your Name]
+# Cybersecurity Portfolio – Jaira Farinas
 Target: Information Security Analyst (CRO / Regulated Environment)  
 Focus: Vulnerability Management, SecOps/IR, Cloud & Identity, GRC/Compliance
 
